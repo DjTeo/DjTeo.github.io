@@ -26,6 +26,6 @@ I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a G
 - [Minion Blast](https://github.com/DjTeo/Minions-Blast) with PyGame (python)
 - [My Ore Miner](https://play.google.com/store/apps/details?id=ptixiaki.tghikas.myoreminer) with libGDX (Java)
 - [My Runner](https://github.com/DjTeo/MyRunner) with Unity (C#)
-- [MyNPC-2DGame](https://github.com/DjTeo/MyNPC-2DGame) with Unity (C#)
+- [My NPC-2DGame](https://github.com/DjTeo/MyNPC-2DGame) with Unity (C#)
 - [My Runner VR](https://youtu.be/OwZTo13pFoY) with Google Cardboard for Unity (C#)
 - [My Restaurant](https://youtu.be/PIyXKygx0nk) with Unity (C#) (In Progress)
