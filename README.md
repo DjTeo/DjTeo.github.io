@@ -28,4 +28,5 @@ I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a G
 - [My Runner](https://github.com/DjTeo/MyRunner) with Unity (C#)
 - [My NPC-2DGame](https://github.com/DjTeo/MyNPC-2DGame) with Unity (C#)
 - [My Runner VR](https://youtu.be/OwZTo13pFoY) with Google Cardboard for Unity (C#)
+- [BrickAlley](https://github.com/DjTeo/BrickAlley) with PyGame (python)
 - [My Restaurant](https://youtu.be/PIyXKygx0nk) with Unity (C#) (In Progress)
