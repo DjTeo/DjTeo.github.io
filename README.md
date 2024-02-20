@@ -31,3 +31,4 @@ I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a G
 - [BrickAlley](https://github.com/DjTeo/BrickAlley) with PyGame (python)
 - [My Restaurant](https://youtu.be/PIyXKygx0nk) with Unity (C#) (Discontinued, look for GyroRush)
 - [GyroRush](https://youtu.be/FnJd9VvHt3A) with Unity (C#)
+- [Clash of Clowns](https://globalgamejam.org/games/2024/clash-clowns-6) for Global Game Jam with theme 'Make Me Laugh' (Jan 2024, 48Hours)
