@@ -18,9 +18,9 @@ I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a G
 ## Contact
 - [Theodosis Gkikas](https://www.linkedin.com/in/theodosis-gkikas-85b151161/) on Linkedin
 - [Theodosis Gkikas](https://m.me/theodosis.ghikas) on Messenger
-- [DjTeo#6559](https://discordapp.com/users/268792651610849290) on Discord
+- [@d.j_teo](https://www.instagram.com/d.j_teo/) on Instagram
 - [@theodosis525](https://twitter.com/theodosis525) on Twitter
-
+- [DjTeo](https://discordapp.com/users/268792651610849290) on Discord
 
 ## Games I made:
 - [Minion Blast](https://github.com/DjTeo/Minions-Blast) with PyGame (python)
