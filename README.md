@@ -1,13 +1,13 @@
 ### Hello there 👋
-I'm Theodosis Gkikas, I am almost 30 years old, I am a Software Engineer and a Game Developer
+I'm Theodosis Gkikas, I am 30 years old, I am a Software Engineer and a Game Developer
 
 
-- 🌱 I’m currently learning Game Development at UoWM
+- 🌱 I’m just graduated in [Game Development](https://gamedev.uowm.gr/) from UoWM
 - 🔭 I’m looking for a job in a Game Studio
 - 💬 Ask me about C#, Games or any Tech related stuff
 - 📫 How to reach me: theodosis525 at gmail dot com
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I graduated at the top of my class @ Digital System on UniPi and I am a decent DJ
+- ⚡ Fun fact: I graduated at the top of my class in [Digital Systems](https://www.ds.unipi.gr/) from UniPi and I am a decent DJ
 
 ## Skills
 - 🎮 Unity, LibGDX, Blender
