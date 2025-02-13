@@ -22,7 +22,7 @@ I'm Theodosis Gkikas, I am 30 years old, I am a Software Engineer and a Game Dev
 - [@theodosis525](https://twitter.com/theodosis525) on Twitter
 - [DjTeo](https://discordapp.com/users/268792651610849290) on Discord
 
-## Games I made:
+## Games I have made:
 - [Minion Blast](https://github.com/DjTeo/Minions-Blast) with PyGame (python)
 - [My Ore Miner](https://play.google.com/store/apps/details?id=ptixiaki.tghikas.myoreminer) with libGDX (Java)
 - [My Runner](https://github.com/DjTeo/MyRunner) with Unity (C#)
