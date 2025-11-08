@@ -2,7 +2,7 @@
 I'm Theodosis Gkikas, I am 30 years old, I am a Software Engineer and a Game Developer
 
 
-- 🌱 I’m just graduated in [Game Development](https://gamedev.uowm.gr/) from UoWM
+- 🌱 I graduated in [Game Development](https://gamedev.uowm.gr/) from UoWM
 - 🔭 I’m looking for a job in a Game Studio
 - 💬 Ask me about C#, Games or any Tech related stuff
 - 📫 How to reach me: theodosis525 at gmail dot com
