@@ -30,5 +30,5 @@ I'm Theodosis Gkikas, I am 30 years old, I am a Software Engineer and a Game Dev
 - [My Runner VR](https://youtu.be/OwZTo13pFoY) with Google Cardboard for Unity (C#)
 - [BrickAlley](https://github.com/DjTeo/BrickAlley) with PyGame (python)
 - [My Restaurant](https://youtu.be/PIyXKygx0nk) with Unity (C#) (Discontinued, replaced by GyroRush)
-- [GyroRush](https://youtu.be/SjlheA5TshI) with Unity (C#) [itch.io](https://djteo.itch.io/gyrorush) [Download Link](https://e.pcloud.link/publink/show?code=XZ2fhnZYeBLXVj1SCpy9Noj863sH77BuN0X)
+- [GyroRush](https://youtu.be/XIBTdFNIg-c) with Unity (C#) [itch.io](https://djteo.itch.io/gyrorush) [Download Link](https://e.pcloud.link/publink/show?code=XZ2fhnZYeBLXVj1SCpy9Noj863sH77BuN0X)
 - [Clash of Clowns](https://globalgamejam.org/games/2024/clash-clowns-6) for Global Game Jam with theme 'Make Me Laugh' (Jan 2024, 48Hours)
